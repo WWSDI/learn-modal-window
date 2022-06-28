@@ -22,7 +22,7 @@ code {
 }
 
 #modal {
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(0, 0, 0, 0.8);
   position: fixed;
   left: 0;
   right: 0;
@@ -39,6 +39,8 @@ code {
 }
 
 #modal > div {
+  /* margin: auto;
+  margin-top: 40vh; */
   background-color: white;
   max-width: 500px;
   padding: 15px;
